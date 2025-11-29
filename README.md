@@ -1,5 +1,5 @@
 
-  # Multimedia Services Sales Platform
+  # NOVAMEDIA
 
   This is a code bundle for Multimedia Services Sales Platform. The original project is available at https://www.figma.com/design/pMiNy7HzWqOmFdwRUREZyx/Multimedia-Services-Sales-Platform.
 
